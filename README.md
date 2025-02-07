@@ -1,0 +1,1 @@
+I developed a MySQL and PL/SQL student enrollment program that leverages DDL for creating and managing database structures, including tables and relationships. Using DML, the system handles student registrations, course assignments, and updates efficiently.
